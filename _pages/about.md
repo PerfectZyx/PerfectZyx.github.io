@@ -51,7 +51,7 @@ My research primarily focuses on AIOps, encompassing anomaly detection, failure 
    \[[paper](https://nkcs.iops.ai/wp-content/uploads/2024/12/FSE24GrayScope.pdf)\]
 
 # 🎖 Honors and Awards
-- *2024* Outstanding Master’s Thesis Award, Nankai University.
+- *2024* Outstanding Master's Thesis Award, Nankai University.
 - *2024* Outstanding Graduate Award, Nankai University.
 - *2022 - 2023* Second-class Scholarship, Nankai University.
 - *2021 - 2022* Second-class Scholarship, Nankai University.
