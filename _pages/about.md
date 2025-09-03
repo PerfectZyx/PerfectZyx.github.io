@@ -17,42 +17,55 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Welcome! I'm Yongxin Zhao, a second-year Ph.D. student at Nankai University, advised by Prof. [Shenglin Zhang](https://nkcs.iops.ai/shenglinzhang/). Previously, I received my Bachelor's degree in 2021 and Master's degree in 2024 from Nankai University.
+
+My research primarily focuses on AIOps, encompassing anomaly detection, failure diagnosis, and root cause analysis. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp;🎉🎉 Our *LogInsight* is accepted by **TSC 2025**! 
+- *2025.05*: &nbsp;🎉🎉 Our *FlowExpert* is accepted by **KDD 2025**! 
+- *2025.04*: &nbsp;🎉🎉 Our *TixFusion* is accepted by **FSE 2025**! 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+(<sup>*</sup> indicates corresponding author, [full publication list](https://scholar.google.com/citations?hl=en&user=WWMBEM8AAAAJ))
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- Accurate and Interpretable Log-Based Fault Diagnosis using Large Language Models. (**TSC 2025**, CCF A) <br>Yongqian Sun, Shiyu Ma, Tong Xiao, **Yongxin Zhao**, Xuhui Cai, Wei Dong, Yue Shen, Yao Zhao, Shenglin Zhang*, Jing Han and Dan Pei. <br>
+   \[[paper](/assets/papers/tsc25_loginsight.pdf)\]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- FlowXpert: Expertizing Troubleshooting Workflow Orchestration with Knowledge Base and Multi-Agent Coevolution. (**KDD 2025**, CCF A) <br>Binpeng Shi, Yu Luo, Jingya Wang, **Yongxin Zhao**, Shenglin Zhang*, Bowen Hao, Chenyu Zhao, Yongqian Sun , Zhi Zhang, Ronghua Sun, Haihua Li, Wei Song, Xiaolong Chen, Jingbo Miao, Dan Pei. <br>
+   \[[paper](/assets/papers/kdd25_FlowExpert.pdf)\]
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- LLM-Augmented Ticket Aggregation for Low-cost Mobile OS Defect Resolution. (**FSE 2025**, CCF A) <br>Yongqian Sun, Bowen Hao, Xiaotian Wang, Chenyu Zhao, **Yongxin Zhao**, Binpeng Shi, Shenglin Zhang*, Qiao Ge, Wenhu Li, Hua Wei, and Dan Pei. <br>
+   \[[paper](/assets/papers/fse25_tixfusion.pdf)\]
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- No More Data Silos: UnifiedMicroservice Failure Diagnosis with Temporal Knowledge Graph. (**TSC 2024**, CCF A) <br>Shenglin Zhang, **Yongxin Zhao**, Sibo Xia, Shirui Wei, Yongqian Sun*,  Chenyu Zhao, Shiyu Ma, Junhua Kuang, Bolin Zhu, Lemeng Pan, Yicheng Guo, Dan Pei. <br>
+   \[[paper](/assets/papers/tsc24_unidiag.pdf)\]
+
+- Auto-PIP: Real-time Identification of Critical Performance Inflection Points in Software Stress Testing. (**ISSRE 2024**, **Best Industry Paper Award**, CCF B) <br>Shenglin Zhang, Xiao Xiong, Mengyao Li, Yongqian Sun*, **Yongxin Zhao**, Xia Chen, Bowen Deng and Dan Pei. <br>
+   \[[paper](/assets/papers/issre24_autopip.pdf)\]
+
+- Illuminating the Gray Zone: Non-Intrusive Gray Failure Localization in Server Operating Systems. (**FSE 2024**, CCF A) <br>Shenglin Zhang, **Yongxin Zhao**, Xiao Xiong, Yongqian Sun*, Xiaohui Nie, Jiacheng Zhang, Fenglai Wang, Xian Zheng, Yuzhi Zhang, Dan Pei. <br>
+   \[[paper](/assets/papers/fse24_grayscope.pdf)\]
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* Outstanding Master’s Thesis Award, Nankai University.
+- *2024* Outstanding Graduate Award, Nankai University.
+- *2022 - 2023* Second-class Scholarship, Nankai University.
+- *2021 - 2022* Second-class Scholarship, Nankai University.
+- *2019 - 2020* National Scholarship, Ministry of Education of the P.R. China.
+- *2018 - 2019* Second-class Scholarship, Nankai University.
+- *2017 - 2018* First-class Scholarship, Nankai University.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.09 - 2025.09 (now)*, Ph.D. in Software Engineering, Nankai University. 
+- *2021.09 - 2024.06*, M.S. in Software Engineering, Nankai University. 
+- *2017.09 - 2021.06*, B.S. in Software Engineering, Nankai University. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.09 - 2025.09 (now)*, Alibaba Group, Hangzhou, China.
+- *2024.04 - 2024.08*, Huawei Technologies Co., Ltd, Hangzhou, China.
+- *2023.02 - 2024.02*, Huawei Technologies Co., Ltd, Nanjing, China.
+- *2020.08 - 2021.06*, Huawei Technologies Co., Ltd, Beijing, China.
