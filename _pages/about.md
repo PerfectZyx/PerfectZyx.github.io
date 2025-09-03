@@ -53,10 +53,7 @@ My research primarily focuses on AIOps, encompassing anomaly detection, failure 
 # 🎖 Honors and Awards
 - *2024* Outstanding Master's Thesis Award, Nankai University.
 - *2024* Outstanding Graduate Award, Nankai University.
-- *2022 - 2023* Second-class Scholarship, Nankai University.
-- *2021 - 2022* Second-class Scholarship, Nankai University.
 - *2019 - 2020* National Scholarship, Ministry of Education of the P.R. China.
-- *2018 - 2019* Second-class Scholarship, Nankai University.
 - *2017 - 2018* First-class Scholarship, Nankai University.
 
 # 📖 Educations
