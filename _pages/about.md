@@ -41,7 +41,7 @@ My research primarily focuses on AIOps, encompassing anomaly detection, failure 
 - LLM-Augmented Ticket Aggregation for Low-cost Mobile OS Defect Resolution. (**FSE 2025**, CCF A) <br>Yongqian Sun, Bowen Hao, Xiaotian Wang, Chenyu Zhao, **Yongxin Zhao**, Binpeng Shi, Shenglin Zhang*, Qiao Ge, Wenhu Li, Hua Wei, and Dan Pei. <br>
    \[[paper](https://nkcs.iops.ai/wp-content/uploads/2025/03/TixFusion_to_FSE_25.pdf)\]
 
-- No More Data Silos: UnifiedMicroservice Failure Diagnosis with Temporal Knowledge Graph. (**TSC 2024**, CCF A) <br>Shenglin Zhang, **Yongxin Zhao**, Sibo Xia, Shirui Wei, Yongqian Sun*,  Chenyu Zhao, Shiyu Ma, Junhua Kuang, Bolin Zhu, Lemeng Pan, Yicheng Guo, Dan Pei. <br>
+- No More Data Silos: Unified Microservice Failure Diagnosis with Temporal Knowledge Graph. (**TSC 2024**, CCF A) <br>Shenglin Zhang, **Yongxin Zhao**, Sibo Xia, Shirui Wei, Yongqian Sun*,  Chenyu Zhao, Shiyu Ma, Junhua Kuang, Bolin Zhu, Lemeng Pan, Yicheng Guo, Dan Pei. <br>
    \[[paper](https://nkcs.iops.ai/wp-content/uploads/2024/10/24_TSC_UniDiag_TSC.pdf)\]
 
 - Auto-PIP: Real-time Identification of Critical Performance Inflection Points in Software Stress Testing. (**ISSRE 2024**, **Best Industry Paper Award**, CCF B) <br>Shenglin Zhang, Xiao Xiong, Mengyao Li, Yongqian Sun*, **Yongxin Zhao**, Xia Chen, Bowen Deng and Dan Pei. <br>
