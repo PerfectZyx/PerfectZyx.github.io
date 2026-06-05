@@ -24,6 +24,7 @@ My research primarily focuses on AIOps, encompassing anomaly detection, failure 
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Our *SlowSight* is accepted by **FAST 2027**! 
 - *2025.12*: &nbsp;🎉🎉 Our *OScope* is accepted by **ICSE 2026 SEIP**! 
 - *2025.08*: &nbsp;🎉🎉 Our *LogInsight* is accepted by **TSC 2025**! 
 - *2025.05*: &nbsp;🎉🎉 Our *FlowExpert* is accepted by **KDD 2025**! 
@@ -32,6 +33,9 @@ My research primarily focuses on AIOps, encompassing anomaly detection, failure 
 # 📝 Publications 
 
 (<sup>*</sup> indicates corresponding author, [full publication list](https://scholar.google.com/citations?hl=en&user=WWMBEM8AAAAJ))
+
+- Labeling the Invisible: A Scalable Framework for Labeling Fail-Slow Failures in Cloud Storage Systems. (**FAST 2027**, CCF A) <br>**Yongxin Zhao**, Yuxin Sun, Shenglin Zhang*, Xiang Liu, Jiaqi Luan, Runzhou Wang, Wenwei Gu, Yongqian Sun, Yidan Li, and Dan Pei. <br>
+   
 
 - When LLMs Listen to Experts: Accurate Failure Diagnosis in Operating Systems. (**ICSE 2026 SEIP**, CCF A) <br>**Yongxin Zhao**, Shenglin Zhang*, Yuxin Sun, Wenwei Gu, Yongqian Sun, Luping Wang, Li Shi, Cheng Huang, Guodong Yang, Liping Zhang, and Dan Pei. <br>
    \[[paper](https://nkcs.iops.ai/wp-content/uploads/2025/12/icse2026-seip-paper13.pdf)\]
@@ -66,7 +70,7 @@ My research primarily focuses on AIOps, encompassing anomaly detection, failure 
 - *2017.09 - 2021.06*, B.S. in Software Engineering, Nankai University. 
 
 # 💻 Internships
-- *2024.09 - 2025.12 (now)*, Alibaba Group, Hangzhou, China.
+- *2024.09 - 2026.06 (now)*, Alibaba Group, Hangzhou, China.
 - *2024.04 - 2024.08*, Huawei Technologies Co., Ltd, Hangzhou, China.
 - *2023.02 - 2024.02*, Huawei Technologies Co., Ltd, Nanjing, China.
 - *2020.08 - 2021.06*, Huawei Technologies Co., Ltd, Beijing, China.
